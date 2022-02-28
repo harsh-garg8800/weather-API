@@ -1,0 +1,5 @@
+env
+User/__pycache__
+weather/__pycache__
+User/migrations/
+User/migrations/__pycache__
